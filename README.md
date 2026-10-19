@@ -46,6 +46,7 @@ PY=$(bash scripts/setup.sh)          # 首次运行：venv 和依赖装在 ~/.ca
 - 图片和截图里的文字不会转换
 - 竖排或旋转的文字暂不支持
 
-## 字体许可
+## 许可
 
-`fonts/` 中的 Noto Sans SC 由 Google / Adobe 以 [SIL Open Font License 1.1](fonts/OFL.txt) 发布。
+- 代码（`SKILL.md`、`scripts/` 等）：[MIT](LICENSE)，可以自由使用、修改和再分发
+- `fonts/` 中的 Noto Sans SC 由 Google / Adobe 以 [SIL Open Font License 1.1](fonts/OFL.txt) 发布
